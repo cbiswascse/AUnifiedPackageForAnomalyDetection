@@ -8,7 +8,7 @@
   <h3 align="center">Efficient Method for Optimizing Anomaly Detection with Clustering Algorithms<br> and for Unifiying in a Package</h3>
 
   <p>
-    To create a common platform for anomaly detection process with some popular clustering algorithms to be an easy solution<br> for data analysis to verify the process data with other clustering algorithms.
+    To create a common platform for anomaly detection process with some popular clustering algorithms to be an easy solution for data analysis to verify the process data with other clustering algorithms.
   </p>
 </div>
 
